@@ -31,6 +31,6 @@ All rights reserved。
 
 ## 版权信息二
 
-当前仓库项目为 https://github.com/CNG-LWX 二次开发项目（继承原框架版权协议，并提供免费使用 仅供个人学习 & 自发非商业平台使用 如需市场商业化应用请至官方地址(https://www.fastadmin.net) 购买 框架 / 插件）
+当前仓库项目为 https://github.com/CNG-LWX 二次开发项目（继承原框架版权协议，并提供免费使用 仅供个人学习 & 自发非商业平台使用 如需市场商业化应用请至官方地址(https://www.fastadmin.net) 购买下载 框架/插件）
 
 （此项目仓库）最终解释权由 github用户CNG-LWX 所有
