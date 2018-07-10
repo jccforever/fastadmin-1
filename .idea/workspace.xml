@@ -97,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Redis.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Redis.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinkphp/library/think/cache/driver/Redis.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1612">
@@ -105,6 +105,18 @@
               <folding>
                 <element signature="e#2239#2355#0#PHP" expanded="true" />
                 <element signature="e#2499#2933#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Driver.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinkphp/library/think/cache/Driver.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1984">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="e#636#5681#1#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,6 +140,9 @@
       <find>redis</find>
       <find>complex</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -190,6 +205,7 @@
     <option name="width" value="1940" />
     <option name="height" value="995" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -266,31 +282,6 @@
               <item name="library" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="think" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="fastadmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fastadmin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="thinkphp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="library" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="think" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fastadmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fastadmin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="thinkphp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="library" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="think" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="driver" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fastadmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fastadmin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="thinkphp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="library" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="think" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -327,16 +318,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531102439733</updated>
-      <workItem from="1531102441165" duration="3552000" />
+      <workItem from="1531102441165" duration="4209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3552000" />
+    <option name="totallyTimeSpent" value="4209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" />
@@ -502,6 +492,16 @@
           <folding>
             <element signature="e#2239#2355#0#PHP" expanded="true" />
             <element signature="e#2499#2933#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkphp/library/think/cache/Driver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1984">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#636#5681#1#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
