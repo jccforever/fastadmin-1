@@ -1,4 +1,0 @@
-<?php
-//000000000000
- exit();?>
-a:10:{s:8:"sms_send";a:2:{i:0;s:21:"\addons\alisms\Alisms";i:1;s:21:"\addons\smsbao\Smsbao";}s:10:"sms_notice";a:2:{i:0;s:21:"\addons\alisms\Alisms";i:1;s:21:"\addons\smsbao\Smsbao";}s:9:"sms_check";a:2:{i:0;s:21:"\addons\alisms\Alisms";i:1;s:21:"\addons\smsbao\Smsbao";}s:19:"addon_after_upgrade";a:1:{i:0;s:15:"\addons\cms\Cms";}s:11:"leesignhook";a:1:{i:0;s:23:"\addons\leesign\Leesign";}s:10:"login_init";a:1:{i:0;s:23:"\addons\loginbg\Loginbg";}s:8:"testhook";a:1:{i:0;s:25:"\addons\markdown\Markdown";}s:12:"upload_after";a:1:{i:0;s:19:"\addons\thumb\Thumb";}s:15:"wipecache_after";a:1:{i:0;s:23:"\addons\tinymce\Tinymce";}s:11:"set_tinymce";a:1:{i:0;s:23:"\addons\tinymce\Tinymce";}}
