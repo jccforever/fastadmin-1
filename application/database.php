@@ -52,5 +52,5 @@ return [
     // 时间字段取出后的默认时间格式,默认为Y-m-d H:i:s
     'datetime_format' => false,
     // 是否需要进行SQL性能分析
-    'sql_explain'     => false,
+    'sql_explain'     => true,
 ];
