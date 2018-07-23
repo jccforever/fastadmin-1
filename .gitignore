@@ -1,14 +1,6 @@
-.buildpath
-.DS_Store
-.project
-.settings
 .idea
 sql
 /sql
-/api
-/public/api
-/public/assets/dist
-/node_modules
 runtime
 /runtime
 /data/runtime
